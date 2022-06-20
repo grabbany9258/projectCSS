@@ -47,7 +47,7 @@ class RiotSlider {
       buttonNumberDisplay: 'default',
       previousNextDisplay: 'both',
       theme: 'default',
-      slideHoldSeconds: 6
+      slideHoldSeconds: 1
     }
 
     this.load(elem)

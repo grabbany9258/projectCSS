@@ -14,7 +14,7 @@
 }
 .container{
 	padding: 5px;
-	height: 33px;
+	height: 30px;
 }
 .contact-icon{
 	width: 75%;
@@ -46,16 +46,18 @@
 
 /*topbar done*/
 
+/*menu bar start*/
+
 body {
 	font-size: 18px;
 	font-family: tahoma;
-	/*line-height: 30px;*/
+	line-height: 30px;
 	letter-spacing: 2px;
-	background-color:#71C5E4 ;
+	background-color:#ECE7E7 ;
 }
 .banner{
 	text-align: center;
-	background-color: #93E761;
+	background-color: #BDA8EE;
 }
 
 .logo img{
@@ -95,8 +97,8 @@ body {
 .left {
 	width: 74%;
 	float: left;
-	margin-right: 0.5%;
-	margin-left: 0.5%;
+	/*margin-right: 0.5%;*/
+	/*margin-left: 0.5%;*/
 
 }
 
@@ -109,7 +111,7 @@ body {
 
 .card {
 	/*margin-top: 15px;*/
-	padding: 20px;
+	padding: 10px;
 	background-color: #fff;
 
 }
@@ -128,6 +130,7 @@ body {
 	background-color: #363434;
 	color: #fff;
 	font-size: 20px;
+	margin-top: 550px;
 
 }
 .logo img{
@@ -138,7 +141,7 @@ body {
 }
 
 .menu input[type="text"] {
-	margin-top: 10px;
+	/*margin-top: 10px;*/
 	width: 400px;
 	padding: 15px;
 }
@@ -161,7 +164,7 @@ body {
 }
 
 .about-section {
-  padding: 50px;
+  padding: 30px;
   text-align: center;
   background-color: #474e5d;
   color: white;
@@ -192,7 +195,7 @@ body {
 .product{
 	width: 20%;
 	float: left;
-	margin: 15px;
+	margin: 32px;
 	padding: 15px;
 	text-align: center;
 }
@@ -208,7 +211,7 @@ h1{
 	padding: 30px;
 }
 
-/*Actibities part end*/
+/*Activities part end*/
 
 /*Contact part start*/
 
